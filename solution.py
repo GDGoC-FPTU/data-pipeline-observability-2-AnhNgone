@@ -81,6 +81,7 @@ def validate(data):
             valid_records.append(record)
  
     print(f"Validation complete. Valid: {len(valid_records)}, Errors: {error_count}")
+    print(f"{error_count} dropped records due to invalid price or empty category.")
     return valid_records
 
 

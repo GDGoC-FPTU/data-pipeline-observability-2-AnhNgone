@@ -7,7 +7,7 @@
 ---
 
 ## 1. Ket qua thi nghiem
-
+py
 Chay `agent_simulation.py` voi 2 bo du lieu va ghi lai ket qua:
 
 | Scenario | Agent Response | Accuracy (1-10) | Notes |
